@@ -1,6 +1,7 @@
 # Idle House Build game bot
 
-This is a simple bot that plays Idle House Build for you. It uses Python Gui Automation to automate the game and collect resources.
+This is a simple bot that plays Idle House Build for you. It uses Python Gui Automation to automate the game and collect
+resources.
 
 ## Features
 
@@ -21,7 +22,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Go to https://www.crazygames.com/game/idle-house-build
+1. Open a new tab in your browser
 
 2. Run the bot.py file using Python:
 
@@ -31,4 +32,5 @@ python bot.py
 
 ## Disclaimer
 
-This bot is for educational purposes only and is not intended to violate any terms of service or rules of the games. Use it at your own risk and responsibility.
+This bot is for educational purposes only and is not intended to violate any terms of service or rules of the games. Use
+it at your own risk and responsibility.
