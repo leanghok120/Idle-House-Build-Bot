@@ -90,7 +90,7 @@ def autoUpgrade():
         click(1387, 308)
         time.sleep(0.5)
     if pyautogui.pixelMatchesColor(
-        1386, 383, (30, 180, 30)
+            1386, 383, (30, 180, 30)
     ) and pyautogui.pixelMatchesColor(1387, 308, (30, 180, 30)):
         click(1387, 308)
         time.sleep(0.5)
